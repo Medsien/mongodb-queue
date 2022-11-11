@@ -1,0 +1,23 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+*.py[cod]
+*.log
+*.pot
+__pycache__/
+.env
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+MANIFEST
+
+
+# JETBRAINS
+.idea/
